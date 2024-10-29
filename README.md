@@ -1,6 +1,6 @@
 # CUDADL
 
-This project is a learning project to recreate a simple deep learning library to get familiarized with CUDA.
+This project is a learning project to recreate a simple deep learning library to get familiarized with CUDA and C++.
 
 ## TODO
 - [x] Get some simple matrix multiplication going
